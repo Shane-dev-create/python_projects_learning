@@ -2,7 +2,6 @@
 
 ## All my python learning and projects will go here
 
----
 
-#### Author
+### Author
 Shane
